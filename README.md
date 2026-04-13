@@ -55,11 +55,6 @@ Because both raster datasets share the same structure, RGB maps can be created f
 
 <img width="771" height="416" alt="arset1" src="https://github.com/user-attachments/assets/2f46080a-b641-434d-86f4-3f682c7fe6e4" />
 
-Example plotting section:
-
-# Example placeholder for RGB plotting
-# plotRGB(hls[[1]], r = 4, g = 3, b = 2, stretch = "lin")
-# plotRGB(hls[[2]], r = 4, g = 3, b = 2, stretch = "lin")
 
 # Part 1: Unsupervised Classification
 
