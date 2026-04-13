@@ -88,7 +88,6 @@ Running K-means with different values for centers helps build understanding of:
 
 This step provides a useful foundation before moving into supervised classification methods.
 
-![Insert image here: K-means outputs for 2, 3, 4, and 5 clusters]
 
 # Part 2: Supervised Classification and Change Detection
 
@@ -107,7 +106,6 @@ This part included:
 
 These steps helped show where land cover changed and how classification results can support environmental monitoring and geospatial decision-making.
 
-![Insert image here: Random Forest output or classified map comparison across dates]
 
 Learning Outcomes
 
@@ -125,8 +123,6 @@ This project strengthened practical skills in:
 - translating technical analysis into environmental insights
 
 Overall, this project provided hands-on experience with NASA satellite imagery and demonstrated how remote sensing workflows can be used to study land cover patterns and changes over time.
-
-![Insert image here: change matrix, LCLU change map, or workflow diagram]
 
 # Conclusion
 
